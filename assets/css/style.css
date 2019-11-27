@@ -11,3 +11,14 @@ body {
     padding: 15px;
     margin: 15px;
 }
+
+.dice-box {
+    border-style: solid;
+    border-color: #ffffff;
+    margin: 35px;
+}
+
+.dice {
+    padding: 20px;
+    display: flex;
+}
