@@ -16,9 +16,15 @@ body {
     border-style: solid;
     border-color: #ffffff;
     margin: 35px;
+    display: flex;
+    flex-direction: column;
 }
 
 .dice {
     padding: 20px;
-    display: flex;
+}
+
+.text {
+    color: #ffffff;
+    justify-content: center;
 }
